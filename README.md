@@ -24,7 +24,7 @@ Additionally, the system uses real-time hand gesture recognition. candidates can
 | **AI / ML**            | [MediaPipe Tasks Vision](https://developers.google.com/mediapipe) | Real-time hand landmark detection                 |
 | **Language**           | TypeScript                                                        | Type-safe development for both frontend & backend |
 | **Build Tools**        | PostCSS, LightningCSS                                             | Modern build pipeline optimized for Next.js       |
-| **Hosting** | Vercel / Supabase Edge                                            | Serverless-friendly deployment ready              |
+| **Hosting** | Vercel                                             | Serverless-friendly deployment ready              |
 
 ## How to Run Locally
 
