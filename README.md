@@ -72,4 +72,4 @@ Then open http://localhost:3000 to see the app live.
 
 ## Author
 **rasyidinazhari** | Indonesia
-🌐 [LinkedIn][https://www.linkedin.com/in/rasyidinazhari/] | [GitHub][https://github.com/rasyidinazhari]
+🌐 [LinkedIn](https://www.linkedin.com/in/rasyidinazhari/) | [GitHub](https://github.com/rasyidinazhari)
