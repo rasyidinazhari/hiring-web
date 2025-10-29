@@ -51,16 +51,17 @@ NEXT_PUBLIC_BASE_URL=http://localhost:3000
 ### 4️⃣ Prepare local model for hand tracking
 Copy the hand landmark model to your public directory:
 ```bash
-
+mkdir -p public/models
+cp node_modules/@mediapipe/tasks-vision/wasm/hand_landmarker.task public/models/
 ```
 Or download it manually from:
 ```bash
-
+https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@latest/wasm/hand_landmarker.task
 ```
 
 ### 5️⃣ Run the development server
 ```bash
-
+npm run dev
 ```
 Then open http://localhost:3000 to see the app live.
 
