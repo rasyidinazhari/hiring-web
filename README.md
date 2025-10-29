@@ -71,5 +71,5 @@ Then open http://localhost:3000 to see the app live.
 - Gesture not working: Ensure webcam permission is granted and hand_landmarker.task file is available in /public/models.
 
 ## Author
-**rasyidinazhari** | Indonesia
+**rasyidinazhari** | Indonesia.
 🌐 [LinkedIn](https://www.linkedin.com/in/rasyidinazhari/) | [GitHub](https://github.com/rasyidinazhari)
