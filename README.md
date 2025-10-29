@@ -30,7 +30,7 @@ Additionally, the system uses real-time hand gesture recognition. candidates can
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/<your-username>/web-hiring.git
+git clone https://github.com/rasyidinazhari/web-hiring.git
 cd web-hiring
 ```
 
